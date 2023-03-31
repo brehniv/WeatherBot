@@ -23,6 +23,7 @@ public class WeatherRequest {
 
 
     public static void main(String[] args) throws IOException {
+        String TEMP="PUSH TO GIT";
         DeleteFile("output.txt");
         ArrayList<String> CityBuff= GetCityList("input.txt");;
         for (int i=0;i<CityBuff.size();i++) {
