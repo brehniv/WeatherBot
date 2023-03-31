@@ -2,6 +2,7 @@ package com.brehniv.weatherbot.config;
 
 
 import com.brehniv.weatherbot.services.TelegramBot;
+import io.github.cdimascio.dotenv.Dotenv;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.ContextRefreshedEvent;
