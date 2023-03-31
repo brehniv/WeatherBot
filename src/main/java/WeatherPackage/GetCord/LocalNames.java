@@ -1,0 +1,39 @@
+package WeatherPackage.GetCord;
+public class LocalNames{
+    public String ca;
+    public String cs;
+    public String es;
+    public String eo;
+    public String pt;
+    public String ku;
+    public String et;
+    public String pl;
+    public String lv;
+    public String io;
+    public String hr;
+    public String ka;
+    public String ml;
+    public String be;
+    public String sr;
+    public String ar;
+    public String lt;
+    public String he;
+    public String ro;
+    public String ja;
+    public String it;
+    public String sk;
+    public String la;
+    public String en;
+    public String ru;
+    public String hu;
+    public String uk;
+    public String tr;
+    public String sl;
+    public String nl;
+    public String ko;
+    public String zh;
+    public String fr;
+    public String de;
+    public String hy;
+}
+
